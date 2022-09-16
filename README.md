@@ -6,7 +6,7 @@
 
 Esse é um simples projeto de CRUD para dados pessoais, <br>desenvoldido para aperfeiçoamento de habilidades.
 
-[Clique aqui para acessar o projeto]()
+[Clique aqui para acessar o projeto](https://maxwell-alexander.github.io/Crud-simples-PESSOAL/)
 
 
 ## Tecnologias
